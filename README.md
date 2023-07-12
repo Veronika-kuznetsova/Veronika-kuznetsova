@@ -14,4 +14,4 @@
 - :eyes: Know my learning experience [here](url-1)
 - :mortar_board: Bachelor's degree in physics
 
-[url-1]: https://github.com/Veronika-kuznetsova/Learning-experience
+[url-1]: [https://github.com/Veronika-kuznetsova/Learning-experience](https://github.com/Veronika-kuznetsova/Learning-experience)https://github.com/Veronika-kuznetsova/Learning-experience
