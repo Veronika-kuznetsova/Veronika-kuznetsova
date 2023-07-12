@@ -1,16 +1,17 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Veronika!</h1>
+	<h3>Data analyst from Saint Petersburg</h3>
+</div>
 
-<!--
-**Veronika-kuznetsova/Veronika-kuznetsova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+	<a href="@veronika_kzntsv">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
-Here are some ideas to get you started:
+### About me
+- 🌱 I’m currently learning data analysis
+- :eyes: Know my learning experience [here](url-1)
+- :mortar_board: Bachelor's degree in physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[url-1]: https://github.com/Veronika-kuznetsova/Learning-experience
