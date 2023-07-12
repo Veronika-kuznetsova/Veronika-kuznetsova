@@ -11,7 +11,5 @@
 
 ### About me
 - 🌱 I’m currently learning data analysis
-- :eyes: Know my learning experience [here](url-1)
-- :mortar_board: Bachelor's degree in physics
-
-[url-1]: [https://github.com/Veronika-kuznetsova/Learning-experience](https://github.com/Veronika-kuznetsova/Learning-experience)https://github.com/Veronika-kuznetsova/Learning-experience
+- :eyes: Know my learning experience [here](https://github.com/Veronika-kuznetsova/Learning-experience)
+- :mortar_board: Bachelor's degree in physics 
